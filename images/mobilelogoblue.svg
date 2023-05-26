@@ -1,0 +1,44 @@
+<svg id="Component_5_1" data-name="Component 5 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="307" height="134" viewBox="0 0 307 134">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#8f92a2" stop-opacity="0"/>
+      <stop offset="1" stop-color="#484951" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect id="Rectangle_9" data-name="Rectangle 9" width="302" height="134" fill="none"/>
+  <g id="Component_1_3" data-name="Component 1 – 3" transform="translate(3)">
+    <g id="Rectangle_2" data-name="Rectangle 2" stroke="#1600ff" stroke-width="8" fill="url(#linear-gradient)">
+      <rect width="304" height="134" rx="42" stroke="none"/>
+      <rect x="4" y="4" width="296" height="126" rx="38" fill="none"/>
+    </g>
+    <text id="Insert_Coin" data-name="Insert Coin" transform="translate(76 52)" fill="#1600ff" font-size="30" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">Insert Coin</tspan></text>
+    <line id="Line_18" data-name="Line 18" x2="84" transform="translate(204.617 84.5)" fill="none" stroke="#1600ff" stroke-width="6"/>
+    <line id="Line_19" data-name="Line 19" x2="60" transform="translate(38.674 98.5)" fill="none" stroke="#1600ff" stroke-width="6"/>
+    <line id="Line_20" data-name="Line 20" x2="83.5" transform="translate(15.174 84.5)" fill="none" stroke="#1600ff" stroke-width="6"/>
+    <line id="Line_21" data-name="Line 21" x2="28" transform="translate(80.041 112.5)" fill="none" stroke="#1600ff" stroke-width="6"/>
+    <line id="Line_22" data-name="Line 22" x2="28" transform="translate(195.165 112.5)" fill="none" stroke="#1600ff" stroke-width="6"/>
+    <line id="Line_23" data-name="Line 23" x2="60" transform="translate(204.617 98.5)" fill="none" stroke="#1600ff" stroke-width="6"/>
+    <path id="Path_1" data-name="Path 1" d="M4075-118.236h7.175v7.506H4075V-118.8" transform="translate(-3934.983 192.777)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+    <path id="Path_2" data-name="Path 2" d="M4074.819-119.552h25.525v9.5h-26.021v-9.989" transform="translate(-3935.511 193.027)" fill="none" stroke="#1600ff" stroke-width="1"/>
+    <path id="Path_3" data-name="Path 3" d="M4075-118.236h7.38v7.506H4075V-118.8" transform="translate(-3926.778 192.777)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+    <path id="Path_4" data-name="Path 4" d="M4075-118.233h7.621v7.538H4075v-8.1" transform="translate(-3918.608 192.777)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+    <path id="Path_5" data-name="Path 5" d="M4075-117.553h8.925v16.636H4075V-118.8" transform="translate(-3927.578 191.781)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+    <path id="Path_6" data-name="Path 6" d="M4075-118.22h7.38v7.711H4075V-118.8" transform="translate(-3926.79 200.722)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+    <path id="Path_7" data-name="Path 7" d="M0,.561H7.175V8.067H0V0" transform="translate(130.95 114.733) rotate(-90)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+    <path id="Path_8" data-name="Path 8" d="M.5.49H26.021v9.5H0V0" transform="translate(129.955 115.935) rotate(-90)" fill="none" stroke="#1600ff" stroke-width="1"/>
+    <path id="Path_9" data-name="Path 9" d="M0,.561H7.38V8.067H0V0" transform="translate(130.95 106.529) rotate(-90)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+    <path id="Path_10" data-name="Path 10" d="M0,.564H7.621V8.1H0V0" transform="translate(130.95 98.359) rotate(-90)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+    <path id="Path_11" data-name="Path 11" d="M0,1.244H8.925V17.881H0V0" transform="translate(129.955 107.33) rotate(-90)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+    <path id="Path_12" data-name="Path 12" d="M0,.577H7.38V8.288H0V0" transform="translate(138.895 106.54) rotate(-90)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+    <path id="Path_13" data-name="Path 13" d="M0,.561H7.175V8.067H0V0" transform="translate(172.84 91.116) rotate(90)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+    <path id="Path_14" data-name="Path 14" d="M.5.49H26.021v9.5H0V0" transform="translate(173.835 89.915) rotate(90)" fill="none" stroke="#1600ff" stroke-width="1"/>
+    <path id="Path_15" data-name="Path 15" d="M0,.561H7.38V8.067H0V0" transform="translate(172.84 99.321) rotate(90)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+    <path id="Path_16" data-name="Path 16" d="M0,.564H7.621V8.1H0V0" transform="translate(172.84 107.49) rotate(90)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+    <path id="Path_17" data-name="Path 17" d="M0,1.244H8.925V17.881H0V0" transform="translate(173.835 98.519) rotate(90)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+    <path id="Path_18" data-name="Path 18" d="M0,.577H7.38V8.288H0V0" transform="translate(164.895 99.309) rotate(90)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+    <path id="Path_19" data-name="Path 19" d="M.462.5H24.249v9.612H0V0" transform="translate(164.122 116.451) rotate(180)" fill="none" stroke="#1600ff" stroke-width="1"/>
+    <path id="Path_20" data-name="Path 20" d="M0,.548H7.541V7.877H0V0" transform="translate(139.873 106.892)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+    <path id="Path_21" data-name="Path 21" d="M0,.548H7.314V7.877H0V0" transform="translate(148.228 106.892)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+    <path id="Path_22" data-name="Path 22" d="M0,.548H7.542V7.877H0V0" transform="translate(156.39 106.892)" fill="none" stroke="#1600ff" stroke-width="1.5"/>
+  </g>
+</svg>

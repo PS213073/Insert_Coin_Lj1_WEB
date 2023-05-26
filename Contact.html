@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/contact.css">
+    <link rel="shortcut icon" href="logomobile1.ico" type="image/x-icon" />
+
+    <title>Insert Coin</title>
+</head>
+
+<body>
+    <header>
+        <div class="navbar">
+            <div class="container">
+                <a href="Home.html">
+                    <img class="mobilelogoblue" src="images/mobilelogoblue.svg" alt="insertcoinlogo"></a>
+
+                <img id="mobile-cta" class="mobile-menu" src="images/menuwhite.svg" alt="Open Navigation">
+
+                <nav>
+                    <img id="mobile-exit" class="mobile-menu-exit" src="images/exit.svg" alt="Close Navigation">
+                    <ul class="primary-nav">
+                        <li><a href="Home.html">Home</a> </li>
+                        <li><a href="Tournament.html">Tournament</a></li>
+                        <li><a href="AboutUs.html">About Us</a></li>
+                        <li><a href="Store.html">Store</a></li>
+                        <li><a href="FAQ.html">FAQ</a></li>
+                        <li class="current"><a href="Contact.html">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div class="background">
+        <section class="background-text">
+            <h2>Contact:</h1>
+                <p>Adres : Sterrenlaan 10, 5631 KA Eindhoven </p>
+                <p>Phone: 040 269 4000 </p>
+                <p>Van Maandag T/M Vrijdag: 8:00 - 21:00 Uur</p>
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2485.54838084974!2d5.49421141576846!3d51.46644777962846!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6d8d3f3dacee7%3A0x1acd712bb57b8792!2sSterrenlaan%2010%2C%205631%20KA%20Eindhoven!5e0!3m2!1sen!2snl!4v1645576838608!5m2!1sen!2snl"
+                    allowfullscreen="" loading="lazy"></iframe>
+                <section class="contact-section">
+
+                    <div class="contact-left">
+                        <h2>Contact Formulier</h2>
+
+                        <form action="">
+                            <label for="name">Naam</label>
+                            <input type="text" id="name" name="name">
+
+                            <label for="Email">Email</label>
+                            <input type="email" id="email" name="email">
+
+                            <label for="Phone">Phone</label>
+                            <input type="number" id="Phone" name="Phone">
+
+                            <label for="message">Bericht</label>
+                            <textarea name="message" id="message" cols="30" rows="10"></textarea>
+
+                            <input type="submit" class="send-message-cta" value="Verzenden">
+                        </form>
+                    </div>
+                    <div class="follow">
+                        <h2>VOLG ONS</h2>
+                        <div class="d-flex buttonContainer"><a href="#"
+                                target="_blank">
+                                <div class="button facebook"><img src="images/facebook.svg"
+                                        alt="Facebook icon"></div>
+                            </a> <a href="#" target="_blank">
+                                <div class="button instagram"><img src="images/instagram.svg"
+                                        alt="Instagram icon"></div>
+                            </a></div>
+                    </div>
+                </section>
+
+    </div>
+
+
+
+    <footer>ⓒ 2022 Insert Coin, Inc. All rights reserved.</footer>
+    <script>
+
+        const mobileBtn = document.getElementById('mobile-cta')
+        nav = document.querySelector('nav')
+        mobileBtnExit = document.getElementById('mobile-exit');
+
+        mobileBtn.addEventListener('click', () => {
+            nav.classList.add('menu-btn');
+        })
+
+        mobileBtnExit.addEventListener('click', () => {
+            nav.classList.remove('menu-btn');
+        })
+
+
+
+    </script>
+
+</body>
+
+</html>

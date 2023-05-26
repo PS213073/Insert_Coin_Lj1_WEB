@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="24px" viewBox="0 0 12 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Facebook</title>
+    <desc>Created with Sketch.</desc>
+    <g id="01-Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01.1-Home---locatie" transform="translate(-918.000000, -3718.000000)" fill="#FFFFFF">
+            <g id="Group" transform="translate(0.000000, 3630.000000)">
+                <g id="Group-2" transform="translate(900.000000, 32.000000)">
+                    <g id="Social" transform="translate(0.000000, 44.000000)">
+                        <g id="Facebook">
+                            <path d="M25.68,20 L29.52,20 L29.04,24 L25.68,24 L25.68,36 L20.7,36 L20.7,24 L18,24 L18,20 L20.7,20 L20.7,17.3125 C20.7,15.5624913 21.1199958,14.2395878 21.96,13.34375 C22.8000042,12.4479122 24.1999902,12 26.16,12 L29.52,12 L29.52,16 L27.48,16 C26.7199962,16 26.2300011,16.1249988 26.01,16.375 C25.7899989,16.6250012 25.68,17.0416638 25.68,17.625 L25.68,20 Z"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

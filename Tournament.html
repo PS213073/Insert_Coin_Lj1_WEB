@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/tournament.css">
+    <link rel="shortcut icon" href="logomobile1.ico" type="image/x-icon" />
+
+    <title>Insert Coin</title>
+</head>
+
+<body>
+    <header>
+        <div class="navbar">
+            <div class="container">
+                <a href="Home.html">
+                    <img class="mobilelogoblue" src="images/mobilelogoblue.svg" alt="insertcoinlogo"></a>
+
+                <img id="mobile-cta" class="mobile-menu" src="images/menuwhite.svg" alt="Open Navigation">
+
+                <nav>
+                    <img id="mobile-exit" class="mobile-menu-exit" src="images/exit.svg" alt="Close Navigation">
+                    <ul class="primary-nav ">
+                        <li><a href="Home.html">Home</a> </li>
+                        <li class="current"><a href="Tournament.html">Tournament</a></li>
+                        <li><a href="AboutUs.html">About Us</a></li>
+                        <li><a href="Store.html">Store</a></li>
+                        <li><a href="FAQ.html">FAQ</a></li>
+                        <li><a href="Contact.html">Contact</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <img class="background" src="images/Tournament.png"></img>
+
+    <section class="background-text">
+        <h1 class="mainhead">Tournament Fortnite</h1>
+        <p class="subhead">Strijd om een kans om een deel van de prijzenpot van € 250.000 te verdienen. Dit toernooi
+            wordt gespeeld over 3 ronden, waarbij de beste teams elke ronde doorgaan. Volledige regels en details:
+            http://fn.gg/C3S1ConsoleCup<br>DATE: MARCH 19, 2022
+            TIME: 7:00 PM CET
+            PLATFORMS: </p>
+        <form action="Inschrijfformulier.html">
+            <input class="button" type="image" src="images/Button01.png" alt="buttonsubmit" />
+        </form>
+    </section>
+
+
+
+
+
+    <footer>ⓒ 2022 Insert Coin, Inc. All rights reserved.</footer>
+    <script>
+
+        const mobileBtn = document.getElementById('mobile-cta')
+        nav = document.querySelector('nav')
+        mobileBtnExit = document.getElementById('mobile-exit');
+
+        mobileBtn.addEventListener('click', () => {
+            nav.classList.add('menu-btn');
+        })
+
+        mobileBtnExit.addEventListener('click', () => {
+            nav.classList.remove('menu-btn');
+        })
+
+
+
+    </script>
+
+</body>
+
+</html>
